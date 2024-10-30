@@ -1,0 +1,2 @@
+# SQL-ASSIGNMENT-6
+jOINS  &amp; UNIONS
